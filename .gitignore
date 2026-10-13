@@ -24,3 +24,9 @@ htmlcov/
 build/
 dist/
 *.egg-info/
+invoice_numbers.sqlite3
+invoice_numbers.sqlite3-shm
+invoice_numbers.sqlite3-wal
+invoice_history.sqlite3
+invoice_history.sqlite3-shm
+invoice_history.sqlite3-wal

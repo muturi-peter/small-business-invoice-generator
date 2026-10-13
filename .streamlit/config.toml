@@ -1,0 +1,17 @@
+[theme]
+base = "light"
+primaryColor = "#176B57"
+backgroundColor = "#F4F6F5"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#18241F"
+borderColor = "#D9E2DC"
+greenColor = "#176B57"
+greenBackgroundColor = "#E7F2EC"
+orangeColor = "#A45132"
+font = "sans-serif"
+headingFont = "serif"
+baseFontSize = 16
+baseRadius = "small"
+buttonRadius = "small"
+showWidgetBorder = true
+linkUnderline = false
