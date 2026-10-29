@@ -61,10 +61,8 @@ Your local repository may differ. Update this section if your filenames or folde
 
 ### 1. Clone the repository
 
-Replace `YOUR-USERNAME` with your GitHub username and adjust the repository name if necessary.
-
 ```bash
-git clone https://github.com/YOUR-USERNAME/small-business-invoice-generator.git
+git clone https://github.com/muturi-peter/small-business-invoice-generator.git
 cd small-business-invoice-generator
 ```
 
