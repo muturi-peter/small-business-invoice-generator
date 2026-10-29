@@ -111,7 +111,7 @@ Install any additional packages required by `invoice_generator.py` and `exchange
 ### 4. Run the application
 
 ```bash
-streamlit run app.py
+streamlit run webapp.py
 ```
 
 Streamlit will provide a local URL to open in your browser.
